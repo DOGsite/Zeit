@@ -1,7 +1,7 @@
 .end{
     display: flex;
     /* height: 55px; */
-    font-size: 30px;
+    font-size: 40px;
     text-shadow: 10px 10px 15px;
 /* float: left; */
     justify-content: center; 
@@ -11,7 +11,7 @@
 .time{
     display: flex;
     /* height: 35px; */
-    font-size: 40px;
+    font-size: 55px;
     text-shadow: 10px 10px 15px;
 /* float: right; */
 
@@ -23,7 +23,7 @@
 .endnow{
     display: flex;
     /* height: 55px; */
-    font-size: 30px;
+    font-size: 40px;
     text-shadow: 10px 10px 15px;
 /* float: left; */
     justify-content: center; 
@@ -33,7 +33,7 @@
 .timenow{
     display: flex;
     /* height: 35px; */
-    font-size: 40px;
+    font-size: 55px;
     text-shadow: 10px 10px 15px;
 /* float: right; */
 
