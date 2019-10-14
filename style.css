@@ -71,7 +71,7 @@ html,body{
 @media screen and (max-width: 720px){
     .alltime{
         /* margin: 1px; */
-        padding: 90px;
+        padding: 50px;
         display: flex;
         flex-direction: column;
 
@@ -84,7 +84,7 @@ html,body{
     .end{
         display: flex;
         /* height: 55px; */
-        font-size: 50px;
+        font-size: 30px;
         text-shadow: 10px 10px 15px;
     /* float: left; */
         justify-content: center; 
@@ -94,7 +94,7 @@ html,body{
     .time{
         display: flex;
         /* height: 35px; */
-        font-size: 55px;
+        font-size: 35px;
         text-shadow: 10px 10px 15px;
     /* float: right; */
     
@@ -106,7 +106,7 @@ html,body{
     .endnow{
         display: flex;
         /* height: 55px; */
-        font-size: 50px;
+        font-size: 30px;
         text-shadow: 10px 10px 15px;
     /* float: left; */
         justify-content: center; 
@@ -116,7 +116,7 @@ html,body{
     .timenow{
         display: flex;
         /* height: 35px; */
-        font-size: 55px;
+        font-size: 35px;
         text-shadow: 10px 10px 15px;
     /* float: right; */
     
