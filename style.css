@@ -7,6 +7,30 @@ html,body{
 /* border-radius: 10px; */
   background-color: #f8f6f4;
 }
+.alltime{
+    /* font-size: 35px; */
+    /* text-shadow: 10px 10px 15px; */
+/* float: right; */
+cursor: text;
+
+     justify-content: space-around; 
+    align-items: center;  
+    text-align: center  ;
+    font-size: 60px;
+    
+ } 
+#datenow{
+    display: flex;
+    /* height: 35px; */
+    font-size: 35px;
+    text-shadow: 10px 10px 15px;
+/* float: right; */
+
+
+    justify-content: space-around; 
+    align-items: center;  
+    text-align: center  
+}
 .end{
     display: flex;
     /* height: 55px; */
@@ -15,7 +39,10 @@ html,body{
 /* float: left; */
     justify-content: center; 
     align-items: center; 
-    text-align: center
+    text-align: center;
+ 
+
+
 }
 .time{
     display: flex;
@@ -23,6 +50,8 @@ html,body{
     font-size: 55px;
     text-shadow: 10px 10px 15px;
 /* float: right; */
+
+
 
     justify-content: space-around; 
     align-items: center;  
@@ -34,7 +63,9 @@ html,body{
     /* height: 55px; */
     font-size: 40px;
     text-shadow: 10px 10px 15px;
-/* float: left; */
+
+
+
     justify-content: center; 
     align-items: center; 
     text-align: center
@@ -45,6 +76,8 @@ html,body{
     font-size: 55px;
     text-shadow: 10px 10px 15px;
 /* float: right; */
+
+
 
     justify-content: space-around; 
     align-items: center;  
@@ -72,13 +105,13 @@ html,body{
     .alltime{
         /* margin: 1px; */
         padding: 50px;
-        display: flex;
-        flex-direction: column;
+
+        cursor: text;
 
         /* justify-content: center; 
         align-items: center; 
         text-align: center; */
-        font-size: 60px;
+        /* font-size: 60px; */
         /* color: #90C2FF; */
     }
     .end{
@@ -97,6 +130,7 @@ html,body{
         font-size: 35px;
         text-shadow: 10px 10px 15px;
     /* float: right; */
+
     
         justify-content: space-around; 
         align-items: center;  
@@ -108,17 +142,19 @@ html,body{
         /* height: 55px; */
         font-size: 30px;
         text-shadow: 10px 10px 15px;
-    /* float: left; */
+
+/* float: left; */
         justify-content: center; 
         align-items: center; 
-        text-align: center
+        text-align: center;
     }
     .timenow{
         display: flex;
         /* height: 35px; */
         font-size: 35px;
         text-shadow: 10px 10px 15px;
-    /* float: right; */
+
+/* float: right; */
     
         justify-content: space-around; 
         align-items: center;  
